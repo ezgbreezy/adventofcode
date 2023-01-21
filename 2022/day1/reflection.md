@@ -1,4 +1,4 @@
-# Advent of Code Day 1 2022: Counting Calories\
+# Advent of Code Day 1 2022: Counting Calories
 
 ## Lessons
 **Writing too much code before testing** 
